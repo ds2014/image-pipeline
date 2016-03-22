@@ -1,0 +1,1 @@
+# Data Pipeline: WebService - FileSystem Image Processor
